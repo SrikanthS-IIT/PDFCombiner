@@ -2,7 +2,7 @@
 Srikanth Sugavanam, 26th January 2024.
 Created for purely academic, non-commercial purposes, by an academic. 
 
-TL;DR - This is a Python script generated using the help of ChatGPT 3.0 to combine a set of PDF files into one. No need to use dodgy online websites. :)
+TL;DR - This is a Python script generated using the help of ChatGPT 3.5 to combine a set of PDF files into one. No need to use dodgy online websites. :)
 
 ## How to use it
 
