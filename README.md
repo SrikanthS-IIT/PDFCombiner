@@ -1,7 +1,7 @@
 # PDFCombiner
 Srikanth Sugavanam, 26th January 2024.
 
-TL;DR - This is a Python script generated using the help of ChatGPT 3.0 to combine a set of PDF files into one. 
+TL;DR - This is a Python script generated using the help of ChatGPT 3.0 to combine a set of PDF files into one. No need to use dodgy online websites. :)
 
 ## How to use it
 
@@ -12,4 +12,8 @@ TL;DR - This is a Python script generated using the help of ChatGPT 3.0 to combi
 
 Works like a charm. 
 
-Disclaimer - I have not fully tested the code. I am just giving this as is, as it worked for me, and I hope it will help you too. No need to use dodgy online websites. :)
+## Dependencies
+You will need the PyPDF2 package. You can install it using pip. 
+
+## Disclaimer 
+I have not fully tested the code. I am just giving this as is, as it worked for me, and I hope it will help you too. 
