@@ -10,10 +10,10 @@ TL;DR - This is a Python script generated using the help of ChatGPT 3.0 to combi
 3. Enter the code, add the source folder path and the destination folder path appended with file name ('Test.pdf')
 4. Run.
 
-Works like a charm. 
+Works like a charm for me. 
 
 ## Dependencies
 You will need the PyPDF2 package. You can install it using pip. 
 
 ## Disclaimer 
-I have not fully tested the code. I am just giving this as is, as it worked for me, and I hope it will help you too. 
+I have not fully tested the code. I am just giving this as is, as it worked for me, and I hope it will help you too. Use it at your own calculated risk. 
