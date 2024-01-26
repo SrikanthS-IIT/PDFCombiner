@@ -1,3 +1,5 @@
+# Disclaimer - this code was written with the help of ChatGPT 3.0. No guarantees. Please use at your own risk. 
+
 import PyPDF2
 import os
 
